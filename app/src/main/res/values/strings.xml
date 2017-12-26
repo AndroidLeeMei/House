@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">House</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_btn">BtnActivity</string>
+    <string name="title_home">房屋資料</string>
+    <string name="title_dashboard">租金管理</string>
+    <string name="title_notifications">報表列印</string>
+    <string name="title_other">其他</string>
+</resources>
